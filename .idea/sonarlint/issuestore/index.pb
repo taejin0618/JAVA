@@ -79,3 +79,15 @@ T
 $study/src/oop1/MusicPlayerMain1.java,1\6\161cc6cf8c083f086e943195fa6f77b84fb93ee9
 T
 $basic/src/oop1/MusicPlayerMain1.java,7\7\77938b1c72defea6a183a964b10ac6d2a0733c80
+S
+#basic/src/oop1/ValueObjectMain.java,1\5\15bfda337a6afa924d0efacecd02c053b1d6a820
+S
+#study/src/oop1/MusinPlayerData.java,c\5\c50e993a23d9e8743815b39102d3c6c7726dc5ee
+T
+$study/src/oop1/MusicPlayerMain2.java,0\1\01d9039b69d8dbf9b9ad777f104bd88ed57efd7d
+T
+$basic/src/oop1/MusicPlayerMain2.java,1\1\116d62c53974d0bd726433c6f2c8cdc5d52f0d75
+S
+#basic/src/oop1/MusicPlayerData.java,9\d\9de6aa6e160098896f6480238e3fa99c255ebce1
+S
+#study/src/oop1/MusicPlayerData.java,8\6\864bc228fbf4a5642badcbba86de5240bf01526a
