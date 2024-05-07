@@ -9,6 +9,6 @@ public class NullMain4 {
         System.out.println("bigData.data=" + bigData.data);
 
         //NullPointerException
-        System.out.println("bigData.data.value" + bigData.data.value);
+        System.out.println("bigData.data.value=" + bigData.data.value);
     }
 }
