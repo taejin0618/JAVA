@@ -1,9 +1,9 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿™ü±8àŸÚˆõ1J$a2b46e30-002d-4b64-8a51-757544fb2b0c
-m	java:S106"+Replace this use of System.out by a logger.(Å·ã8ìŸÚˆõ1J$0fefcbad-fbf6-43ee-9354-e9a9fcbbb1ab
-r	java:S106"+Replace this use of System.out by a logger.(Ğ•Úúıÿÿÿÿ8íŸÚˆõ1J$1c2d95f5-e582-4aed-a1b8-334286d64f8e
-r	java:S106!"+Replace this use of System.out by a logger.(—ÚÎ½ùÿÿÿÿ8íŸÚˆõ1J$a2558097-0dc0-4241-b4a9-07a879f9bc07
-r	java:S106&"+Replace this use of System.out by a logger.(—ÚÎ½ùÿÿÿÿ8îŸÚˆõ1J$db6317dd-2667-4403-a62e-d3226d1f622a
-m	java:S106*"+Replace this use of System.out by a logger.(¯œ˜Ù8îŸÚˆõ1J$528fc808-c61d-4406-8637-dec7e781ee4b
-m	java:S106,"+Replace this use of System.out by a logger.(åœŒ8îŸÚˆõ1J$50bcfd34-352c-40d4-aa04-90e5837bb054
-m	java:S106."+Replace this use of System.out by a logger.(ïĞ·İ8ïŸÚˆõ1J$74daeb3a-73f4-4bd7-b20d-b9d23949fc23
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿™ü±8àŸÚˆõ1J$93f44e1b-061e-447b-8a34-9e13f0dc340b
+m	java:S106"+Replace this use of System.out by a logger.(Å·ã8ìŸÚˆõ1J$8624e388-e8b4-4172-9078-a157853fc88e
+r	java:S106"+Replace this use of System.out by a logger.(Ğ•Úúıÿÿÿÿ8íŸÚˆõ1J$079ac008-deec-4cb1-8eb0-63bc3ad7a575
+r	java:S106!"+Replace this use of System.out by a logger.(—ÚÎ½ùÿÿÿÿ8íŸÚˆõ1J$6a12f1fc-46ea-4757-b694-cad88c1f10ed
+r	java:S106&"+Replace this use of System.out by a logger.(—ÚÎ½ùÿÿÿÿ8îŸÚˆõ1J$a1694c18-af89-48cc-a28f-ec14ee54afb9
+m	java:S106*"+Replace this use of System.out by a logger.(¯œ˜Ù8îŸÚˆõ1J$e77280fc-de7d-4d60-abed-3ddc9157b202
+m	java:S106,"+Replace this use of System.out by a logger.(åœŒ8îŸÚˆõ1J$f5511a8c-835c-491b-a362-750c795bb0d7
+m	java:S106."+Replace this use of System.out by a logger.(ïĞ·İ8ïŸÚˆõ1J$33ccb332-344d-44bd-ad61-348c624c28cf
