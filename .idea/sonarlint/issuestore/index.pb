@@ -161,8 +161,6 @@ Q.idea/sonarlint/securityhotspotstore/8/6/864bc228fbf4a5642badcbba86de5240bf0152
 Q.idea/sonarlint/securityhotspotstore/2/5/257025f5f5bb5d9c96fe21692ee0ad8fc4eec537,6\e\6e278e6ebd2137f14c93fdb3167399c03c2ada30
 w
 G.idea/sonarlint/issuestore/9/1/914b8a779c8c5af682d032d8e1109d2fdde11243,f\b\fbb6412ff70254633c3458f305f8652df7a02ce7
-Å
-Q.idea/sonarlint/securityhotspotstore/c/5/c50e993a23d9e8743815b39102d3c6c7726dc5ee,5\e\5e2106243d559b82a145095ed75399669ef58d24
 w
 G.idea/sonarlint/issuestore/a/c/ac76db203f944fddc797017f88ccbc52dd1fee4c,6\8\681fdbf55d1a11b5d0e33caa8ab89ef9c7771166
 Å
@@ -229,8 +227,6 @@ Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c
 Q.idea/sonarlint/securityhotspotstore/8/9/89e25871ff5581e732966c951288724ee02554fb,f\5\f5079fd3eab6b2dae62000f75297b96fdbd128ae
 Å
 Q.idea/sonarlint/securityhotspotstore/3/7/374be4857ad2ee8c4be2b8d8c146d9d9adca458d,f\0\f06e535654110ff8310a25268207ad13a9a935f8
-]
--study/src/oop1/ex/RectangleProceduraMain.java,5\3\53e272aefe83751d4bb7f0c0853efe75d84f57b2
 ^
 .basic/src/oop1/ex/RectangleProceduralMain.java,f\0\f0adda969451b6f6f6d9f8502e741ac9e031bbb6
 ^
@@ -267,3 +263,21 @@ X
 (study/src/construct/MethodInitMain3.java,7\a\7a965ba919412b7c13758d8fc6b93c281e8dba03
 S
 #study/src/construct/MemberThis.java,d\9\d91daa17cc2ed94cae7e3b33836b97e9ac27446b
+X
+(study/src/construct/MemberConstruct.java,f\c\fcc0e87d2de9b94a2f72b14b695bb897bd5888c9
+V
+&study/src/construct/ContructMain1.java,9\6\96f710c27d8b64e0a922c9d447be392775c2e416
+V
+&study/src/construct/MemberDefault.java,3\5\35f2c43e682bbda7c51ec7dfe6b369efb19d6a01
+Z
+*study/src/construct/MemberDefaultMain.java,c\8\c870857e5912674072def8b2c1a518dbc83a42c0
+V
+&study/src/construct/ContructMain2.java,6\2\62f0540c6cb522663bf40398138506e7d91adb99
+P
+ study/src/construct/ex/Book.java,6\c\6cc42f34a8372698d18fb186e4e97c0c7e662ebf
+T
+$study/src/construct/ex/BookMain.java,d\1\d174ccac1cbd4c2f7baf1b11116a14c9e4f7ddb3
+P
+ basic/src/construct/ex/Book.java,6\e\6e82c89e15c66fb4da27e852ec60cf52ea27e7fa
+T
+$basic/src/construct/ex/BookMain.java,2\e\2ec5cca60ef9a2af2f0b384e0b06526b589aba84
