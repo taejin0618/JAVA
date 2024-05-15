@@ -290,8 +290,6 @@ P
 P
  study/src/pack/PackageMain2.java,8\3\8375544a84c9b329383aa18f164e185b5b2b943d
 J
-study/src/pack/a/Use2.java,3\c\3c3c0b7117757bef64a8b622d707310802f6f118
-J
 study/src/pack/b/User.java,6\d\6da29e2c3470b421c4dcc78e712d22dc7c42ca84
 P
  study/src/pack/PackageMain3.java,8\1\819986f65a18fe308f0a693cd9b89cd5a3d8811d
