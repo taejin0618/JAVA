@@ -1,0 +1,9 @@
+
+
+java:S1104"WMake publicField a static final constant or non-public and provide accessors if needed.(ν‚²—ϋÿÿÿÿ8τύ‡όχ1J$384817aa-438a-4a44-b280-4c9289f14a0b
+¥
+java:S1845"]Rename method "defaultField" to prevent any misunderstanding/clash with field "defaultField".(Ύƒ®…ψÿÿÿÿ8ώ‡όχ1J$6a1e20ea-611f-49ed-875c-3042b9955553
+m	java:S106	"+Replace this use of System.out by a logger.(θέΡ8­ώ‡όχ1J$45b55241-ba98-485b-97db-0026876c45b5
+r	java:S106"+Replace this use of System.out by a logger.(±ΈÒόÿÿÿÿ8®ώ‡όχ1J$792aaf61-6d05-4a2e-afdc-39567f072ded
+r	java:S106"+Replace this use of System.out by a logger.(«ΒΏψÿÿÿÿ8―ώ‡όχ1J$ac3bd876-a61a-457c-afd0-e9fb75e4e352
+r	java:S106"+Replace this use of System.out by a logger.(ξÒ“έώÿÿÿÿ8°ώ‡όχ1J$ec7a1dd7-3a30-4080-8e1f-dc21053128d5
