@@ -643,8 +643,6 @@ M
 study/src/access/Speaker.java,0\7\074950a9841fa7dbcd8385867d31dea86720c3bd
 Q
 !study/src/access/SpeakerMain.java,e\2\e234c8fa81d73f076da2d272b05210b82ff78a4b
-G
-study/src/ref/Test.java,e\b\eba93147ff59b3f49f80d28c1948b2f9abad8116
 R
 "study/src/access/a/AccessData.java,0\0\0049325191681e50bb0706d1b8931f3cc29eae82
 W
@@ -931,10 +929,6 @@ Q.idea/sonarlint/securityhotspotstore/0/7/074950a9841fa7dbcd8385867d31dea86720c3
 Q.idea/sonarlint/securityhotspotstore/e/2/e234c8fa81d73f076da2d272b05210b82ff78a4b,2\d\2dc8580a0c66f4971a5f4f62b7ca9ce5fe519a8c
 Å
 Q.idea/sonarlint/securityhotspotstore/0/0/0049325191681e50bb0706d1b8931f3cc29eae82,0\0\00b420b2ecf9abf1d729f7f2b52fb3f90000dfe7
-w
-G.idea/sonarlint/issuestore/e/b/eba93147ff59b3f49f80d28c1948b2f9abad8116,4\7\4762af557ce75a5e896b8fff07a4a3a8e9b60da9
-Å
-Q.idea/sonarlint/securityhotspotstore/e/b/eba93147ff59b3f49f80d28c1948b2f9abad8116,5\d\5dc33ccb1892c94e8afffdc7adb5da5f38a35026
 Å
 Q.idea/sonarlint/securityhotspotstore/f/8/f8ef193a3b70ae8b7f97dffdbfa073f9cf6ef5e1,7\e\7e308ea959c474c278d34fd03fd6fb58a0cc206c
 Å
@@ -1333,3 +1327,21 @@ w
 G.idea/sonarlint/issuestore/3/9/3907e0b0a5da7f935827925c25bbf0e4f5673f01,7\7\7748e3f6f204e17a34c9a71892528a9acbc3c67d
 w
 G.idea/sonarlint/issuestore/3/e/3e88d1a15df98cbc0b21a0fb04125d059af3f3a4,2\0\204afe8f5490ab01bede1592c69987bb63ebdd9f
+K
+start/src/array/Array1.java,4\4\44b1b5a2339b3c4b35f17b57a78ae903e72d6cfa
+K
+start/src/scope/Scope1.java,1\7\174f09c4afc9bf8ed155518251f909b87b207171
+H
+start/src/HelloJava.java,3\6\36ee789ae7b89ceca7795d11ddbb148c1b5c4e9f
+Å
+Q.idea/sonarlint/securityhotspotstore/1/7/174f09c4afc9bf8ed155518251f909b87b207171,9\4\943929df000806a9a41ca2e459fd79a951e53b85
+w
+G.idea/sonarlint/issuestore/1/7/174f09c4afc9bf8ed155518251f909b87b207171,d\0\d0e7451a25bffff00dcf70ee530e4714899a8309
+Å
+Q.idea/sonarlint/securityhotspotstore/4/4/44b1b5a2339b3c4b35f17b57a78ae903e72d6cfa,b\5\b5b46b90e18268429d8cdaf40cfcca6985636237
+w
+G.idea/sonarlint/issuestore/3/6/36ee789ae7b89ceca7795d11ddbb148c1b5c4e9f,0\8\0884596f131c8865ec54e4656abe9e2e1bea6b07
+Å
+Q.idea/sonarlint/securityhotspotstore/3/6/36ee789ae7b89ceca7795d11ddbb148c1b5c4e9f,3\4\34b773976c2045b23121a3d5da5ea63403d29dbf
+w
+G.idea/sonarlint/issuestore/4/4/44b1b5a2339b3c4b35f17b57a78ae903e72d6cfa,c\5\c5687e92463f4f6f578fb0a341d0bd8d35f8a415
