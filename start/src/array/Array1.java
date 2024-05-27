@@ -3,7 +3,7 @@ package array;
 public class Array1 {
 
     public static void main(String[] args) {
-        int student1 = 90;
+        int student1 = 90; // int 타입의 student 변수를 90으로 초기화
         int student2 = 80;
         int student3 = 70;
         int student4 = 60;
