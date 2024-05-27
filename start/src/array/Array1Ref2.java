@@ -14,8 +14,9 @@ public class Array1Ref2 {
         students[4] = 50;
 
         //변수 값 사용
-        for (int i = 0; i < students.length; i++) {
-            System.out.println("학생" + (i + 1) + " 점수: " + students[i]);
+        for (int i = 0; i < students.length; i++) { // students 배열의 수만큼 반복 여기서 students 배열의 수는 5니까 5만큼 반복
+            System.out.println("학생" + (i + 1) + " 점수: " + students[i]); //학생 i + 1 로 학생1 :students[0] 에 있는 90
+            // 학생1 의 점수는 90
         }
     }
 }
