@@ -929,10 +929,6 @@ Q.idea/sonarlint/securityhotspotstore/0/7/074950a9841fa7dbcd8385867d31dea86720c3
 Q.idea/sonarlint/securityhotspotstore/e/2/e234c8fa81d73f076da2d272b05210b82ff78a4b,2\d\2dc8580a0c66f4971a5f4f62b7ca9ce5fe519a8c
 Å
 Q.idea/sonarlint/securityhotspotstore/0/0/0049325191681e50bb0706d1b8931f3cc29eae82,0\0\00b420b2ecf9abf1d729f7f2b52fb3f90000dfe7
-w
-G.idea/sonarlint/issuestore/e/b/eba93147ff59b3f49f80d28c1948b2f9abad8116,4\7\4762af557ce75a5e896b8fff07a4a3a8e9b60da9
-Å
-Q.idea/sonarlint/securityhotspotstore/e/b/eba93147ff59b3f49f80d28c1948b2f9abad8116,5\d\5dc33ccb1892c94e8afffdc7adb5da5f38a35026
 Å
 Q.idea/sonarlint/securityhotspotstore/f/8/f8ef193a3b70ae8b7f97dffdbfa073f9cf6ef5e1,7\e\7e308ea959c474c278d34fd03fd6fb58a0cc206c
 Å
@@ -1382,8 +1378,6 @@ Q.idea/sonarlint/securityhotspotstore/6/a/6a3fca9acd58441454506e1a7343373dc5c7f6
 Å
 Q.idea/sonarlint/securityhotspotstore/6/a/6a0d31e5d4e3e108633fceac7ac63182fdae73d0,d\0\d04da5e137a546318f8b56456834a34ae74f2e88
 Å
-Q.idea/sonarlint/securityhotspotstore/4/7/4762af557ce75a5e896b8fff07a4a3a8e9b60da9,b\4\b406c1b0b99342cc50d9512d8ea3a47b604a4f36
-Å
 Q.idea/sonarlint/securityhotspotstore/4/7/47deea973d12bd9a7ff5999d20135c170ce61489,8\f\8f84b7224185c5c18d1219e4d15d8a9b61baf82d
 Å
 Q.idea/sonarlint/securityhotspotstore/4/7/47abfefb38e8d28686a9758aedc45f5af3fb3a47,e\b\eb8294a6c4457309955a294361b7f9a6c483f1a9
@@ -1688,8 +1682,6 @@ G.idea/sonarlint/issuestore/2/4/24385b07dc5ffec048fb22c4b4b91f2894105092,8\2\82
 w
 G.idea/sonarlint/issuestore/4/7/47fdde42b3eb506b3d003f80204e6ee594d70416,1\f\1f7de2e1dd5716a3a241406c65a1c098119bb9b1
 w
-G.idea/sonarlint/issuestore/4/7/4762af557ce75a5e896b8fff07a4a3a8e9b60da9,9\9\99efedcd70fa1b8c9a581ef0ec21e511605d58b6
-w
 G.idea/sonarlint/issuestore/4/7/47deea973d12bd9a7ff5999d20135c170ce61489,6\7\67e636cd4c3deaf2c86a2d8bd838718ae1ad6275
 w
 G.idea/sonarlint/issuestore/4/7/47abfefb38e8d28686a9758aedc45f5af3fb3a47,3\c\3c8ae4739a7105921bad38a0fbba6444a95c5522
@@ -1821,8 +1813,6 @@ w
 G.idea/sonarlint/issuestore/d/b/db9303a703f9c8428a20a2e38dc020af6dc6d3ea,9\4\94bc01d4e12ae8ea5f037af9802c40a660d0c8b1
 w
 G.idea/sonarlint/issuestore/d/c/dc06e2cc12199ffd5314a2cba4949ca2e5eb5e82,9\c\9cbedb6250050776bc6454e0309df9928e1a656b
-Å
-Q.idea/sonarlint/securityhotspotstore/5/d/5dc33ccb1892c94e8afffdc7adb5da5f38a35026,5\e\5ed5a939db3da3919933d7179b54a4dcfd82977d
 Å
 Q.idea/sonarlint/securityhotspotstore/0/3/03d7ca39d94e83ddb988e1a6ef3eb00aac8ba938,0\0\00a6b7ec8dddb54a3339bc0ab33756c317f1e7be
 Å
@@ -2606,8 +2596,6 @@ G.idea/sonarlint/issuestore/5/d/5d45d619242a0c2c24321e8bfa09cf9b6bb0a1e5,d\7\d7
 w
 G.idea/sonarlint/issuestore/5/d/5d6edb0a6628d301f1579adcfd35911073fec42d,a\2\a26cb6678a12ef6ba2964b6d03b51a2a828fff44
 w
-G.idea/sonarlint/issuestore/5/d/5dc33ccb1892c94e8afffdc7adb5da5f38a35026,0\a\0a1bc09c647be51609ef9c96ea0c7101b159dd1f
-w
 G.idea/sonarlint/issuestore/4/b/4baf0b502bf32635de206d326e67e08e9720f100,7\d\7d8570461e11a42dd3c13d854c6c7049eafdd069
 w
 G.idea/sonarlint/issuestore/4/b/4b93b3d2be1717074cac0d60a21d4df6b7204ec1,a\b\ab97e821a30dd7dc57b3bf0ee8c4c00000673cb7
@@ -2699,3 +2687,27 @@ P
  start/src/array/ex/ArrayEx1.java,4\4\4404bcce984bd5422691458325015ab76f851b09
 S
 #start/src/array/ex/ArrayEx1Ref.java,3\c\3c95a666d74994238b8a00d9914e62a57238e025
+K
+start/src/array/Array1.java,4\4\44b1b5a2339b3c4b35f17b57a78ae903e72d6cfa
+O
+start/src/array/Array1Ref2.java,c\0\c05b733c7013d7d826da3be04ae7e6e0bd2a6341
+U
+%study/src/access/BankAccountMain.java,1\2\128034293b56be8c1afafb21a03e83f032f71a20
+Q
+!study/src/access/BankAccount.java,3\7\37659e754bc05e56bc9fa464c4bd767bce9de0de
+U
+%basic/src/access/BankAccountMain.java,f\e\fef29daac3d34c27ba9dcb7aff3dbc54f1739966
+S
+#study/src/access/ex/MaxCounter.java,5\1\5113cdd25ee02fb52f4e552f60cc308371830305
+S
+#basic/src/access/ex/MaxCounter.java,a\c\acbedc49167264a02a3ffbb41a23f18ea317c459
+R
+"study/src/access/ex/CountMain.java,3\5\3514fddc0cadc8d5f7d4ca0fd3ff6391cd9b9b8d
+Y
+)study/src/access/ex/ShoppingCartMain.java,4\1\4120d198b9f312cd550fae2f6863cf259e105c18
+M
+study/src/access/ex/Item.java,b\b\bbd84b20ee13078664e4c7113361365cd1840a62
+R
+"study/src/access/ShoppingCart.java,3\0\308be16b9a03cc2b85ae2fbbf76ad82c35470718
+U
+%study/src/access/ex/ShoppingCart.java,6\7\67113a7b50b366298cfc784ab61f784ef965936f
