@@ -7,7 +7,5 @@ public class Data1 {
     public Data1(String name) {
         this.name = name;
         count++;
-
     }
-
 }

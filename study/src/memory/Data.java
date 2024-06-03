@@ -1,13 +1,13 @@
 package memory;
 
 public class Data {
-    private int valeu;
+    private int value;
 
-    public Data(int valeu) {
-        this.valeu = valeu;
+    public Data(int value) {
+        this.value = value;
     }
 
     public int getValue() {
-        return valeu;
+        return value;
     }
 }
