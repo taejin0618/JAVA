@@ -1,4 +1,4 @@
-package operator.ex;
+package operator_pass.ex;
 
 public class OperationEx2 {
 

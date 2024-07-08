@@ -1,4 +1,4 @@
-package variable;
+package variable_pass;
 
 public class Var2 {
     public static void main(String[] args) {

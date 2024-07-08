@@ -1,4 +1,4 @@
-package variable.ex;
+package variable_pass.ex;
 
 public class VarEx1 {
 

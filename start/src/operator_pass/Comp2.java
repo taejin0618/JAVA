@@ -1,4 +1,4 @@
-package operator;
+package operator_pass;
 
 public class Comp2 {
 
@@ -10,8 +10,8 @@ public class Comp2 {
         boolean result2 = str1.equals("문자열1");//문자열 변수, 리터럴 비교
         boolean result3 = str1.equals(str2);//문자열 변수 비교
 
-        System.out.println(result1);
-        System.out.println(result2);
-        System.out.println(result3);
+        System.out.println(result1); // true
+        System.out.println(result2); // true
+        System.out.println(result3); // false
     }
 }
