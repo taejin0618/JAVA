@@ -16,5 +16,6 @@ public class AccessInnerMain {
 //        data.privateField;
 
         data.innerAccess();
+
     }
 }

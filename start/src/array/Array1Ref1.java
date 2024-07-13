@@ -7,8 +7,9 @@ public class Array1Ref1 {
         students = new int[5]; // students 변수에 5개의 인덱스 할당
 
         String[] stu;
-        stu = new String[1];
+        stu = new String[2];
         stu[0] = "가나다";
+        stu[1] = "김태진";
         //변수 값 대입
         students[0] = 90;
         students[1] = 80;
@@ -23,5 +24,8 @@ public class Array1Ref1 {
         System.out.println("학생4 점수: " + students[3]);
         System.out.println("학생5 점수: " + students[4]);
         System.out.println("stu = " + stu[0]);
+        System.out.println("stu = " + stu[1]);
+
+
     }
 }
