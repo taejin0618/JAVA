@@ -1,4 +1,4 @@
-package scanner.ex;
+package scanner_ing.ex;
 
 import java.util.Scanner;
 
