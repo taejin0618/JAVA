@@ -8,7 +8,7 @@ public class ScannerEx3 {
         Scanner input = new Scanner(System.in);
 
         System.out.print("음식 이름을 입력해주세요: ");
-        String foodName = input.nextLine();
+        String foodName = input.nextLine(); // 문자열 입력
 
         System.out.print("음식의 가격을 입력해주세요: ");
         int foodPrice = input.nextInt();
