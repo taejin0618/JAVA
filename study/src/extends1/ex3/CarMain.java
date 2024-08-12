@@ -5,6 +5,7 @@ public class CarMain {
     public static void main(String[] args) {
         System.out.println("----");
         ElectricCar electricCar = new ElectricCar();
+        Car car = new Car();
         electricCar.move();
         electricCar.charge();
         electricCar.openDoor();
