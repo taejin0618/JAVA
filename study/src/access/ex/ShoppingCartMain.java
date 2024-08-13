@@ -22,5 +22,6 @@ public class ShoppingCartMain {
 
         // 카트에 있는 아이템들을 출력합니다.
         cart.displayItems();
+
     }
 }

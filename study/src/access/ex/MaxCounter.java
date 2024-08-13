@@ -1,8 +1,8 @@
 package access.ex;
 
 public class MaxCounter {
-    private int count = 0;
-    private int max;
+    private int count = 3;
+    private int max; // 3
 
     public MaxCounter(int max) {
         this.max = max;

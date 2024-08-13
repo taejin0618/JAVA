@@ -4,7 +4,8 @@ import access.a.AccessData;
 
 public class AccessOouterMain {
     public static void main(String[] args) {
-        AccessData data = new AccessData();
+
+        AccessData data = new AccessData(); //객체 생성
         //public 호출
         data.publicField = 1;
         data.publicMethod();
@@ -17,7 +18,7 @@ public class AccessOouterMain {
 //        data.privateField = 3;
 //        data.privateField;
 
-        data.innerAccess();
+        data.innerAccess(); // innerAccess 메서드 호출
     }
 
 }

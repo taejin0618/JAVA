@@ -11,16 +11,16 @@ public class AccessData {
     //publicMethod 메서드 선언
 
     public void publicMethod() { // 메서드 선언
-        System.out.println("publicField = " + publicField); // publicField 는 publicFiedld 값
+        System.out.println("publicField = " + publicField); // publicField 는 publicField 값
     }
 
     //defaultField 메서드 선언
     public void defaultField() {
-        System.out.println("DefaultField = " + defaultField); // DafaultField 값 출력
+        System.out.println("DefaultField = " + defaultField); // DefaultField 값 출력
     }
 
     // private 메서드 선언
-    private void privateFidle() { // 해당 메서드는 해당 클래스에서만 호출 가능
+    private void privateField() { // 해당 메서드는 해당 클래스에서만 호출 가능
         System.out.println("privateField = " + privateField);
     }
 // innerAccess 메서드 생성
@@ -31,7 +31,7 @@ public class AccessData {
         privateField = 300;
         publicMethod(); // 메서드 호출
         defaultField();
-        privateFidle();
+        privateField();
 
     }
 
