@@ -7,8 +7,12 @@ public class RectangleOopMain {
         rectangle.width = 8;
         rectangle.height = 8;
 
-        int area = rectangle.calculateArea();
+        System.out.println("area = " + rectangle.calculateArea());
+
+        int area = rectangle.calculateArea(2,3);
         System.out.println("넓이: " + area);
+
+
 
         int perimeter = rectangle.calculatePerimeter();
         System.out.println("둘레 길이: " + perimeter);
