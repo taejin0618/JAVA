@@ -10,6 +10,7 @@ public class Member {
         this.name = name;
     }
 
+
     public void changeData(String id, String name) {
         //this.id = id; //컴파일 오류
         this.name = name;
