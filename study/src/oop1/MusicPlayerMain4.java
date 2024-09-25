@@ -5,9 +5,10 @@ public class MusicPlayerMain4 {
         MusicPlayer myPlayer = new MusicPlayer();
 
         myPlayer.on();
-        myPlayer.off();
+//        myPlayer.off();
         myPlayer.volumeUp();
-        myPlayer.volumeDown();
+//        myPlayer.volumeDown();
+//        myPlayer.on();
         myPlayer.showStatus();
 
     }
