@@ -11,8 +11,8 @@ public class AbstractMain {
         Caw caw = new Caw();
         Duck duck = new Duck();
 
-        cat.sound();
-        cat.move();
+        // cat.sound();
+        // cat.move();
 
         soundAnimal(dog);
         soundAnimal(cat);
